@@ -4,9 +4,13 @@ Instructions and Inspiration: https://pypi.org/project/py-iMessage/
 
 2. brew install python3
 
-3. pip install py-imessage
+3. curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 
-4. python3 textApp.py
+4. python3 get-pip.py
+
+5. pip install py-imessage
+
+6. python3 textApp.py
 
 
 
